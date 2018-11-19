@@ -1,0 +1,49 @@
+{
+  "friends": {
+    "friend1": {
+    "name": "Nathan B.",
+    "address": "123 Main Street, Jackson, TN 38301",
+    "phone": "555-234-9087",
+    "email": "nathanb@fakemail.com",
+    "relationship": "good friend",
+    "isAvoiding": false,
+    "uid": "1"
+    },
+    "friend2": {
+      "name": "Winston M.",
+      "address": "321 Main Street, Jackson, TN 38301",
+      "phone": "555-234-9123",
+      "email": "winstonj@fakemail.com",
+      "relationship": "good friend",
+      "isAvoiding": false,
+      "uid": "2"
+    },
+    "friend3": {
+      "name": "Zach C.",
+      "address": "007 Main Street, Jackson, TN 38305",
+      "phone": "555-731-0987",
+      "email": "zachc@fakemail.com",
+      "relationship": "brother",
+      "isAvoiding": false,
+      "uid": "3"
+    },
+    "friend4": {
+      "name": "Andrea EP",
+      "address": "124 Main Street, Jackson, TN 38305",
+      "phone": "555-529-0823",
+      "email": "andreaep@fakemail.com",
+      "relationship": "sister",
+      "isAvoiding": false,
+      "uid": "4"
+    },
+    "friend5": {
+      "name": "Jeff M",
+      "address": "9872 Main Street, Bolivar, TN 38301",
+      "phone": "555-731-0987",
+      "email": "jmann@fakemail.com",
+      "relationship": "good friend",
+      "isAvoiding": false,
+      "uid": "4"
+    }
+  }
+}
