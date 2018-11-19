@@ -7,7 +7,7 @@
     "email": "nathanb@fakemail.com",
     "relationship": "good friend",
     "isAvoiding": false,
-    "uid": "1"
+    "uid": "dBwOBarXiqd7dYVYi24HToz5KOp1"
     },
     "friend2": {
       "name": "Winston M.",
@@ -16,7 +16,7 @@
       "email": "winstonj@fakemail.com",
       "relationship": "good friend",
       "isAvoiding": false,
-      "uid": "2"
+      "uid": "dBwOBarXiqd7dYVYi24HToz5KOp1"
     },
     "friend3": {
       "name": "Zach C.",
@@ -25,7 +25,7 @@
       "email": "zachc@fakemail.com",
       "relationship": "brother",
       "isAvoiding": false,
-      "uid": "3"
+      "uid": "dBwOBarXiqd7dYVYi24HToz5KOp1"
     },
     "friend4": {
       "name": "Andrea EP",
@@ -34,7 +34,7 @@
       "email": "andreaep@fakemail.com",
       "relationship": "sister",
       "isAvoiding": false,
-      "uid": "4"
+      "uid": "dBwOBarXiqd7dYVYi24HToz5KOp1"
     },
     "friend5": {
       "name": "Jeff M",
