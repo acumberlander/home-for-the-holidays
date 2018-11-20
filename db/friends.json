@@ -1,5 +1,4 @@
 {
-  "friends": {
     "friend1": {
     "name": "Nathan B.",
     "address": "123 Main Street, Jackson, TN 38301",
@@ -45,5 +44,4 @@
       "isAvoiding": false,
       "uid": "4"
     }
-  }
 }

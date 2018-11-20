@@ -5,15 +5,15 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nss-evening-cohort-8/home-for-the-holidays.git"
+    "url": "git+https://github.com/acumberlander/home-for-the-holidays.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Austin Cumberlander",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nss-evening-cohort-8/home-for-the-holidays/issues"
+    "url": "https://github.com/acumberlander/home-for-the-holidays/issues"
   },
-  "homepage": "https://github.com/nss-evening-cohort-8/home-for-the-holidays#readme",
+  "homepage": "https://github.com/acumberlander/home-for-the-holidays#readme",
   "scripts": {
     "build": "NODE_ENV=production webpack",
     "lint": "eslint ./src --ext .js --fix",
