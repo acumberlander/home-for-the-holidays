@@ -5,7 +5,7 @@
   "phoneNumber": "555-234-9087",
   "email": "nathanb@fakemail.com",
   "relationship": "good friend",
-  "isAvoiding": false,
+  "isAvoiding": true,
   "uid": "dBwOBarXiqd7dYVYi24HToz5KOp1"
   },
   "friend2": {
