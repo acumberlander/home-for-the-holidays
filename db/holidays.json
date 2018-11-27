@@ -1,5 +1,4 @@
 {
-  "holidays": {
     "holiday1": {
       "name": "Thanksgiving",
       "Date": "11/22/2018",
@@ -23,6 +22,5 @@
       "location": "NSS",
       "startTime": "11am",
       "uid": "1"
-    }
   }
 }
