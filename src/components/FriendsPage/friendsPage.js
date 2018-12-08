@@ -105,6 +105,7 @@ const deleteFriend = (e) => {
 const updateIsAvoiding = (e) => {
   const friendId = e.target.id;
   const isAvoiding = e.target.checked;
+  console.log(e);
   friendsData.updatedIsAvoiding(friendId, isAvoiding)
     .then(() => {
 
